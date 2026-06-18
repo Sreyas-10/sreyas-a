@@ -1,8 +1,9 @@
 <div align="center">
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6A5ACD&height=200&section=header&text=Sreyas%20A&fontSize=50&fontColor=ffffff)
 
 # Hi 👋, I'm Sreyas A
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=30\&pause=1000\&color=36BCF7\&center=true\&vCenter=true\&width=900\&lines=Full+Stack+Python+Developer;Learning+Game+Development;Cinematographer;Video+Editor;Photographer;Building+Awesome+Projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Full+Stack+Python+Developer;Learning+Game+Development;Cinematographer;Video+Editor;Photographer;Building+Awesome+Projects)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=Sreyas-10\&color=blue\&style=for-the-badge)
 
@@ -103,6 +104,17 @@ Currently learning game development and building interactive experiences.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
 
 ---
+## 📊 GitHub Statistics
+
+![](https://github-readme-stats.vercel.app/api?username=Sreyas-10&show_icons=true&theme=tokyonight)
+
+![](https://streak-stats.demolab.com?user=Sreyas-10&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sreyas-10&layout=compact&theme=tokyonight)
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sreyas-10&theme=algolia&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## ⚡ Fun Fact
 
