@@ -1,9 +1,10 @@
-<div align="center">
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6A5ACD&height=200&section=header&text=Sreyas%20A&fontSize=50&fontColor=ffffff)
-
 # Hi 👋, I'm Sreyas A
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Full+Stack+Python+Developer;Learning+Game+Development;Cinematographer;Video+Editor;Photographer;Building+Awesome+Projects)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=waving\&color=0:36BCF7,100:6A5ACD\&height=220\&section=header\&text=Sreyas%20A\&fontSize=50\&fontColor=ffffff)
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=30\&pause=1000\&color=36BCF7\&center=true\&vCenter=true\&width=1000\&lines=Full+Stack+Python+Developer;Learning+Game+Development;Cinematographer;Video+Editor;Photographer;Building+Awesome+Projects)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=Sreyas-10\&color=blue\&style=for-the-badge)
 
@@ -15,10 +16,6 @@
 
 <a href="https://github.com/Sreyas-10">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="https://instagram.com/_s_re_ya_s._">
@@ -37,7 +34,7 @@ I'm a passionate **Full Stack Python Developer** focused on building modern appl
 
 📹 Professional Video Editor
 
-📸 cinematographer
+📸 Photographer
 
 🚀 Always building and learning new things
 
@@ -89,35 +86,22 @@ Currently learning game development and building interactive experiences.
 
 ---
 
+## 📊 GitHub Statistics
+
+![](https://github-readme-stats.vercel.app/api?username=Sreyas-10\&show_icons=true\&theme=tokyonight)
+
+![](https://streak-stats.demolab.com?user=Sreyas-10\&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sreyas-10\&layout=compact\&theme=tokyonight)
+
+---
+
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sreyas-10\&theme=algolia\&row=1\&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-## 📊 GitHub Statistics
-
-![](https://github-readme-stats.vercel.app/api?username=Sreyas-10\&show_icons=true\&theme=tokyonight)
-
-![](https://streak-stats.demolab.com?user=Sreyas-10E\&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
-
----
-## 📊 GitHub Statistics
-
-![](https://github-readme-stats.vercel.app/api?username=Sreyas-10&show_icons=true&theme=tokyonight)
-
-![](https://streak-stats.demolab.com?user=Sreyas-10&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sreyas-10&layout=compact&theme=tokyonight)
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sreyas-10&theme=algolia&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## ⚡ Fun Fact
 
 > Code by day, create visuals by night. 🚀
-
-</div>
