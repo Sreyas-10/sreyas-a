@@ -36,7 +36,7 @@ I'm a passionate **Full Stack Python Developer** focused on building modern appl
 
 📹 Professional Video Editor
 
-📸 Photographer
+📸 cinematographer
 
 🚀 Always building and learning new things
 
